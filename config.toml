@@ -5,7 +5,7 @@ builddrafts = true
 canonifyurls = true
 baseurl = "www.hugo-tufte.com"
 theme = "hugo-tufte"
-title = "Hugo-tufte Theme Example Site"
+title = "Stephen J Eglen"
 
 [taxonomies]
   category = "categories" 
