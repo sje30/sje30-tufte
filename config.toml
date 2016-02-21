@@ -3,7 +3,7 @@ layoutdir = "layouts"
 publishdir = "public"
 builddrafts = true 
 canonifyurls = true
-baseurl = "www.hugo-tufte.com"
+baseurl = "sje30.github.io"
 theme = "hugo-tufte"
 title = "Stephen J Eglen"
 
