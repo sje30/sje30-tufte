@@ -7,6 +7,16 @@ After each reference, *Paper* links to papers; *Info* to further information
 about that paper, including code and data.
 
 ### Preprints
+Cutts CS, Eglen SJ (2016) A Bayesian framework for comparing the
+structure of spontaneous correlated activity recorded under different
+conditions. bioRxiv:037358
+[*Paper*](http://biorxiv.org/content/early/2016/01/19/037358)
+
+Eglen SJ (2015) Bivariate spatial point patterns in the retina: a
+reproducible review. bioRxiv:029348
+[*Paper*](http://biorxiv.org/content/early/2015/10/16/029348)
+[*Info*](http://github.com/sje30/eglen2015)
+
 Gjorgjieva J, Evers JF, Eglen S (2015) Homeostatic activity-dependent
 tuning of recurrent networks for robust propagation of
 activity. bioRxiv:033548 [*Paper*](http://biorxiv.org/content/early/2015/12/02/033548)
