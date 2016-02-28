@@ -14,8 +14,7 @@ title = "Stephen J Eglen"
   tag = "tags"
 
 [params]
-  subtitle = "Subtitle goes here."
-  copyrightHolder = "Copyright Holder"
+  copyrightHolder = "Stephen J. Eglen"
   showPoweredBy = true
 
 # -----------------------------------------------------------------------
@@ -34,11 +33,17 @@ title = "Stephen J Eglen"
   identifier = "posts"
   url = "/post"
 [[menu.nav]]
-  name = "Categories"
+  name = "Tags"
   pre = "<i class='fa fa-tags fa-lg'></i> "
   weight = -90 
   identifier = "categories"
   url = "/categories"
+
+[[menu.nav]]
+  name = "Papers"
+  weight = -80 
+  identifier = "papers"
+  url = "/page/papers"
 
 # -----------------------------------------------------------------------
 # Morphism theme footer menu 
